@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gantulga-Ba
+- 👀 I’m interested in improving my programming skills and one day I will be hired as a remote developer.
+- 🌱 I’m currently learning C# .Net framework.
+- 💞️ I’m looking to collaborate on journey to the path of becoming a real programmer.
+- 📫 How to reach me byby email tulga.job@gmail.com 
